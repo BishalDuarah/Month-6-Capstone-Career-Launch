@@ -3,6 +3,17 @@
 
 A full-stack Machine Learning project that predicts real estate prices based on user inputs, with a production-ready architecture including API, monitoring, and frontend.
 
+
+## Project Overview
+This project combines Machine Learning + Backend APIs + Monitoring + (Frontend-ready) to deliver a production-style system for real estate price prediction.
+
+It covers:
+Data preprocessing & feature engineering
+Model training with hyperparameter tuning
+REST API deployment using FastAPI
+Containerization using Docker
+Monitoring using Prometheus & Grafana
+
 ---
 
 ## 🚀 Features
@@ -13,6 +24,14 @@ A full-stack Machine Learning project that predicts real estate prices based on 
 - 📈 Monitoring using Prometheus
 - 📊 Visualization using Grafana
 - ⚛️ React (Vite) frontend for user interaction
+
+
+## 📊 Model Performance
+| Metric   | Value |
+| -------- | ----- |
+| MAE      | ~2.97 |
+| R² Score | ~0.95 |
+
 
 ---
 
